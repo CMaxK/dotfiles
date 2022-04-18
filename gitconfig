@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = christopher_karg@yahoo.co.uk
+	name = Christopher Karg
